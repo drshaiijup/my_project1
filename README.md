@@ -1,2 +1,1 @@
-# first-repository
-python project
+# my_project
